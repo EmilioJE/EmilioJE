@@ -27,10 +27,10 @@ Aquí en mi repositorio encontrarás una variedad de proyectos que van desde apl
 
 Si quieres hablar sobre algún proyecto, compartir ideas o colaborar, no dudes en contactarme:
 
-- 📧 **Correo electrónico**: emilioje@example.com
+- 📧 **Correo electrónico**: emilio.jiron@virginiogomez.cl.cl
 - 🌐 **LinkedIn**: [EmilioJE en LinkedIn](https://www.linkedin.com/in/emilioje)
 - 💬 **Twitter**: [@EmilioJE](https://twitter.com/EmilioJE)
-- 👽 **Instagram**:[@EmilioJE](https://www.instagram.com/le3spin/)
+- 👽 **Instagram**: [@EmilioJE](https://www.instagram.com/le3spin/)
 
 ## 📌 Licencia
 
